@@ -1,0 +1,7 @@
+<resources>
+    <string name="tagline">নিরাপদ। ব্যক্তিগত। সংযুক্ত।</string>
+    <string name="get_started">শুরু করুন</string>
+    <string name="disconnected">সংযোগ বিচ্ছিন্ন</string>
+    <string name="connected">সংযুক্ত</string>
+    <string name="tap_to_connect">সংযোগ করতে ট্যাপ করুন</string>
+</resources>
