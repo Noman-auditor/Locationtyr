@@ -39,7 +39,7 @@ jobs:
       # ---------- hev-socks5-tunnel (.so, 4 ABI: arm64-v8a, armeabi-v7a, x86, x86_64) ----------
       - name: Restore cached libhev-socks5-tunnel
         id: cache-hev
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: hev-libs
           key: hev-${{ runner.os }}-ndk${{ env.NDK_VERSION }}-v1
